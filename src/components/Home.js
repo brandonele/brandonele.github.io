@@ -13,7 +13,7 @@ const Home = () => {
                 <a href="#skills" className="nav-link">skills</a>
                 <a href="#resume" className="nav-link">experience</a>
                 <a href="#portfolio" className="nav-link">projects</a>
-                <a href="/brandonle_cv.pdf" className="nav-link" target="_blank" rel="noopener noreferrer">cv</a>
+                <a href="/BrandonLe_CV.pdf" className="nav-link" target="_blank" rel="noopener noreferrer">cv</a>
 </nav>
             <div id = "overview" className="container">
             {/* <img src="/pumpkin.png" alt="Brandon Le" className="profile-pic" /> */}
