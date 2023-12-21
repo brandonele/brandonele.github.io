@@ -1,0 +1,12 @@
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #1F1F1F; /* Light grey background, you can change it as needed */
+    color: #6c757d; /* Dark grey text, this is just a suggestion */
+    font-size: 0.875rem; /* Small text */
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow for some depth */
+}
+
+/* You may want to add responsiveness or additional styling as needed */
